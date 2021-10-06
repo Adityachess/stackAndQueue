@@ -20,4 +20,8 @@ public class MyStack {
 		return MyLinkedList.head;
 	}
 
+	public INode pop() {
+		return MyLinkedList.pop();
+	}
+
 }
